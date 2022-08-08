@@ -3,7 +3,9 @@ Developed using repository pattern and SOLID principles
 
 ### How to run?
 1. Docker compose required
-2.  ```
-  docker-compose build
-  docker-compose run -d
+```bash
+# first
+docker-compose build
+# second
+docker-compose run
 ```
